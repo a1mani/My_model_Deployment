@@ -2,8 +2,10 @@ click==7.1.2
 Flask==1.1.2
 jinja2==2.11.3
 pandas==1.2.3
-scikit-learn
+scikit-learn==0.23.0
+requests==2.24.0
+numpy==1.19.3
 itsdangerous==1.1.0
 Werkzeug
-
-
+pickle4
+gunicorn
